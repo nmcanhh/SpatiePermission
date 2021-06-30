@@ -1,0 +1,61 @@
+/*error*/
+.border_error{
+  border: 1px solid red;
+}
+
+
+/*Icon lỗi*/
+
+.error_ten_ndk_icon {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    color: red;
+    display: none;
+
+}
+
+.error_ngaysinh_icon {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    color: red;
+    display: none;
+
+}
+
+.error_sdt_icon {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    color: red;
+    display: none;
+
+}
+
+.error_email_icon {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    color: red;
+    display: none;
+
+}
+
+
+
+.error_block{
+  position: relative;
+}
+
+
+/*Icon đúng*/
+
+/*.success_icon{
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    color: green;
+    display: none;
+
+}*/
